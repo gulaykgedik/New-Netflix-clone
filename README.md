@@ -8,6 +8,7 @@ HTML, CSS ve JavaScript kullanılarak yapılmıştır.
 
 ## Özellikler 📋
 <br/>
+
 - **Responsive Tasarım**: Çeşitli cihaz boyutlarına uygun esnek bir tasarım.
   
 - **Minimal JavaScript Kullanımı**: Kullanıcı etkileşimlerini sağlayan basit ancak etkili JS işlevleri.
